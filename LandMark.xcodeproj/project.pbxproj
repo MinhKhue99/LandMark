@@ -51,6 +51,9 @@
 		FAE42895285CE8B70040CBE0 /* LandMark */ = {
 			isa = PBXGroup;
 			children = (
+				FAE428A6285CECA50040CBE0 /* Helper */,
+				FAE428A5285CEC930040CBE0 /* View */,
+				FAE428A4285CEC850040CBE0 /* Model */,
 				FAE42896285CE8B70040CBE0 /* LandMarkApp.swift */,
 				FAE42898285CE8B70040CBE0 /* ContentView.swift */,
 				FAE4289A285CE8B80040CBE0 /* Assets.xcassets */,
@@ -65,6 +68,27 @@
 				FAE4289D285CE8B80040CBE0 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		FAE428A4285CEC850040CBE0 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FAE428A5285CEC930040CBE0 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		FAE428A6285CECA50040CBE0 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Helper;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
